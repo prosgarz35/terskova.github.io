@@ -1,0 +1,3 @@
+[submodule "themes/therminal"]
+	path = themes/therminal
+	url = https://github.com/panr/hugo-theme-terminal.git
